@@ -1,3 +1,4 @@
 # dao
 student
-This is my First a Program of C++ 
+ C++ project
+基于Linux + Tcl + Redis + ACL + MySQL 实现开发的分布式技术服务器，客户机可上传和下载流媒体播放文件的功能
