@@ -1,0 +1,3 @@
+D:/C++main/recover/cmake-build-debug/CMakeFiles/recover.dir
+D:/C++main/recover/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++main/recover/cmake-build-debug/CMakeFiles/rebuild_cache.dir

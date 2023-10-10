@@ -1,0 +1,5 @@
+# ninja log v5
+4	128	7054091392092508	CMakeFiles/train.dir/main.cpp.obj	f47ef78d438136fd
+521	683	7054092325678770	train.exe	7a24a94ecfabac73
+3	259	7054729450660232	build.ninja	c01a2d6eb07f139
+5	520	7054092324063908	CMakeFiles/train.dir/123.cpp.obj	b6c97fb3a5ae8239
